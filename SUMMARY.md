@@ -11,6 +11,13 @@
 * [Time complexity](i-basic-techniques/time-complexity/README.md)
   * [Calculation rules](i-basic-techniques/time-complexity/calculation-rules.md)
 * [Sorting](i-basic-techniques/sorting.md)
+* [Data structures](i-basic-techniques/data-structures.md)
+* [Complete search](i-basic-techniques/complete-search.md)
+* [Greedy algorithms](i-basic-techniques/greedy-algorithms.md)
+* [Dynamic programming](i-basic-techniques/dynamic-programming.md)
+* [Amortized analysis](i-basic-techniques/amortized-analysis.md)
+* [Range queries](i-basic-techniques/range-queries.md)
+* [Bit manipulation](i-basic-techniques/bit-manipulation.md)
 
 ## II Graph algorithms
 

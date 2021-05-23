@@ -1,0 +1,2 @@
+# Sprague–Grundy theorem
+

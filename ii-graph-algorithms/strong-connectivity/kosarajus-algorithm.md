@@ -1,0 +1,2 @@
+# Kosaraju's algorithm
+

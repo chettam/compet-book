@@ -1,0 +1,2 @@
+# Static array queries
+

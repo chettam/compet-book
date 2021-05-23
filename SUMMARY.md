@@ -51,7 +51,11 @@
   * [Two pointers method](i-basic-techniques/amortized-analysis/two-pointers-method.md)
   * [Nearest smaller elements](i-basic-techniques/amortized-analysis/nearest-smaller-elements.md)
   * [Sliding window minimum](i-basic-techniques/amortized-analysis/sliding-window-minimum.md)
-* [Range queries](i-basic-techniques/range-queries.md)
+* [Range queries](i-basic-techniques/range-queries/README.md)
+  * [Static array queries](i-basic-techniques/range-queries/static-array-queries.md)
+  * [Binary indexed tree](i-basic-techniques/range-queries/binary-indexed-tree.md)
+  * [Segment tree](i-basic-techniques/range-queries/segment-tree.md)
+  * [Additional techniques](i-basic-techniques/range-queries/additional-techniques.md)
 * [Bit manipulation](i-basic-techniques/bit-manipulation.md)
 
 ## II Graph algorithms

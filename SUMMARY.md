@@ -85,4 +85,13 @@
 
 * [Number theory](iii-advanced-topics/number-theory.md)
 * [Combinatorics](iii-advanced-topics/combinatorics.md)
+* [Matrices](iii-advanced-topics/matrices.md)
+* [Probability](iii-advanced-topics/probability.md)
+* [Game theory](iii-advanced-topics/game-theory.md)
+* [String algorithms](iii-advanced-topics/string-algorithms.md)
+* [Square root algorithms](iii-advanced-topics/square-root-algorithms.md)
+* [Segment trees revisited](iii-advanced-topics/segment-trees-revisited.md)
+* [Geometry](iii-advanced-topics/geometry.md)
+* [Sweep line algorithms](iii-advanced-topics/sweep-line-algorithms.md)
+* [Bibliography](iii-advanced-topics/bibliography.md)
 

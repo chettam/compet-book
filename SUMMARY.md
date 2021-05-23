@@ -72,6 +72,14 @@
   * [Depth-first search](ii-graph-algorithms/graph-traversal/depth-first-search.md)
   * [Breadth-first search](ii-graph-algorithms/graph-traversal/breadth-first-search.md)
   * [Applications](ii-graph-algorithms/graph-traversal/applications.md)
+* [Shortest paths](ii-graph-algorithms/shortest-paths.md)
+* [Tree algorithms](ii-graph-algorithms/tree-algorithms.md)
+* [Spanning trees](ii-graph-algorithms/spanning-trees.md)
+* [Directed graphs](ii-graph-algorithms/directed-graphs.md)
+* [Strong connectivity](ii-graph-algorithms/strong-connectivity.md)
+* [Tree queries](ii-graph-algorithms/tree-queries.md)
+* [Paths and circuits](ii-graph-algorithms/paths-and-circuits.md)
+* [Flows and cuts](ii-graph-algorithms/flows-and-cuts.md)
 
 ## III Advanced topics
 

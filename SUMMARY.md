@@ -47,7 +47,10 @@
   * [Knapsack problems](i-basic-techniques/dynamic-programming/knapsack-problems.md)
   * [Edit distance](i-basic-techniques/dynamic-programming/edit-distance.md)
   * [Counting tilings](i-basic-techniques/dynamic-programming/counting-tilings.md)
-* [Amortized analysis](i-basic-techniques/amortized-analysis.md)
+* [Amortized analysis](i-basic-techniques/amortized-analysis/README.md)
+  * [Two pointers method](i-basic-techniques/amortized-analysis/two-pointers-method.md)
+  * [Nearest smaller elements](i-basic-techniques/amortized-analysis/nearest-smaller-elements.md)
+  * [Sliding window minimum](i-basic-techniques/amortized-analysis/sliding-window-minimum.md)
 * [Range queries](i-basic-techniques/range-queries.md)
 * [Bit manipulation](i-basic-techniques/bit-manipulation.md)
 

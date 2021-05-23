@@ -111,7 +111,11 @@
 
 ## III Advanced topics
 
-* [Number theory](iii-advanced-topics/number-theory.md)
+* [Number theory](iii-advanced-topics/number-theory/README.md)
+  * [Primes and factors](iii-advanced-topics/number-theory/primes-and-factors.md)
+  * [Modular arithmetic](iii-advanced-topics/number-theory/modular-arithmetic.md)
+  * [Solving equations](iii-advanced-topics/number-theory/solving-equations.md)
+  * [Other results](iii-advanced-topics/number-theory/other-results.md)
 * [Combinatorics](iii-advanced-topics/combinatorics.md)
 * [Matrices](iii-advanced-topics/matrices.md)
 * [Probability](iii-advanced-topics/probability.md)

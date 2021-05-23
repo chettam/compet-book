@@ -56,12 +56,22 @@
   * [Binary indexed tree](i-basic-techniques/range-queries/binary-indexed-tree.md)
   * [Segment tree](i-basic-techniques/range-queries/segment-tree.md)
   * [Additional techniques](i-basic-techniques/range-queries/additional-techniques.md)
-* [Bit manipulation](i-basic-techniques/bit-manipulation.md)
+* [Bit manipulation](i-basic-techniques/bit-manipulation/README.md)
+  * [Bit representation](i-basic-techniques/bit-manipulation/bit-representation.md)
+  * [Bit operations](i-basic-techniques/bit-manipulation/bit-operations.md)
+  * [Representing sets](i-basic-techniques/bit-manipulation/representing-sets.md)
+  * [Bit optimizations](i-basic-techniques/bit-manipulation/bit-optimizations.md)
+  * [Dynamic programming](i-basic-techniques/bit-manipulation/dynamic-programming.md)
 
 ## II Graph algorithms
 
-* [Basics of graphs](ii-graph-algorithms/basics-of-graphs.md)
-* [Graph traversal](ii-graph-algorithms/graph-traversal.md)
+* [Basics of graphs](ii-graph-algorithms/basics-of-graphs/README.md)
+  * [Graph terminology](ii-graph-algorithms/basics-of-graphs/graph-terminology.md)
+  * [Graph representation](ii-graph-algorithms/basics-of-graphs/graph-representation.md)
+* [Graph traversal](ii-graph-algorithms/graph-traversal/README.md)
+  * [Depth-first search](ii-graph-algorithms/graph-traversal/depth-first-search.md)
+  * [Breadth-first search](ii-graph-algorithms/graph-traversal/breadth-first-search.md)
+  * [Applications](ii-graph-algorithms/graph-traversal/applications.md)
 
 ## III Advanced topics
 

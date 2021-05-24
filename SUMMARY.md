@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Index page](README.md)
-* [Untitled](untitled.md)
 * [Preface](preface.md)
 
 ## I Basic techniques

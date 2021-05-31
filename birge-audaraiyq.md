@@ -6,24 +6,17 @@
 
 [https://forms.gle/Fi277JnpT93iBybX7](https://forms.gle/Fi277JnpT93iBybX7)
 
-Becoming a super hero is a fairly straight forward process:
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+Надо описать фазы:
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+1. сначала собираем данные желающих переводить
+2. связываемся
+3. даем инструкцию
+4. распределяем работу
+5. даем доступ на перевод
+6. модерируем
+7. публикуем
 
 
 

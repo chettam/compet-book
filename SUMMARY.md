@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Index page](README.md)
+* [Бірге аударайық](birge-audaraiyq.md)
 * [Preface](preface.md)
 
 ## I Basic techniques

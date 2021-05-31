@@ -2,6 +2,10 @@
 
 ## How to contribute
 
+Казирги кезде биз аударма жасаймын дейтин адамдардын байланыс мәліметтерін жинап отырмыз. Егерде сиз косылам десениз, келеси форманы толтырып койынызды сураймыз
+
+[https://forms.gle/Fi277JnpT93iBybX7](https://forms.gle/Fi277JnpT93iBybX7)
+
 Becoming a super hero is a fairly straight forward process:
 
 ```

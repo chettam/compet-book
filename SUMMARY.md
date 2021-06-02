@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Index page](README.md)
-* [Бірге аударайық](birge-audaraiyq.md)
-* [Функциялар](zhanalyqtar.md)
 * [Preface](preface.md)
+* [Бірге аударайық](birge-audaraiyq.md)
+* [Changelog](changelog.md)
+* [Қалай аударамыз?](alai-audaramyz/README.md)
+  * [Математикалық функциялар](alai-audaramyz/functions.md)
 
 ## I Basic techniques
 

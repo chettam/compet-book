@@ -3,9 +3,10 @@
 * [Index page](README.md)
 * [Preface](preface.md)
 * [Бірге аударайық](birge-audaraiyq.md)
-* [Changelog](changelog.md)
+* [Жаңалықтар](zhanalyqtar.md)
 * [Қалай аударамыз?](alai-audaramyz/README.md)
   * [Математикалық функциялар](alai-audaramyz/functions.md)
+  * [Untitled](alai-audaramyz/untitled.md)
 
 ## I Basic techniques
 

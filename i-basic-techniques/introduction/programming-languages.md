@@ -8,6 +8,12 @@ On the other hand, it is good to master several languages and understand their s
 
 All example programs in this book are written in C++, and the standard library’s data structures and algorithms are often used. The programs follow the C++11 standard, which can be used in most contests nowadays. If you cannot program in C++ yet, now is a good time to start learning.
 
+sәіқіңеіқңұеп
+
+іңпі
+
+
+
 ## C++ code template
 
 A typical C++ code template for competitive programming looks like this:

@@ -2,7 +2,7 @@
 
 * [Index page](README.md)
 * [Бірге аударайық](birge-audaraiyq.md)
-* [Жаңалықтар](zha-aly-tar.md)
+* [Функциялар](zhanalyqtar.md)
 * [Preface](preface.md)
 
 ## I Basic techniques
